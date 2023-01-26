@@ -6,6 +6,10 @@
 
 0. ctrl + ~
 1. git init
-2. git add[파일 이름]
+2. git add 파일 이름   또는   git add .
 3. ctrl + s
-3. git commit -m "내용"
+4. git commit -m "내용"
+5. git config --global user.name "nickname"
+6. git config --global user.gmail "e-mail"
+7. git remote add 이름 Repositories주소
+8. git push 이름 master
