@@ -33,3 +33,17 @@ wave, egg, shark, slice, rect, soft, rounded, cylinder, waving
 
 헤더 색
 rgb
+
+클론
+1. 코드 복사
+2. git clone 복사내용
+3. open folder로 찾기
+
+
+멀티 수정
+1. 파일 열기
+2. 내용 수정
+3. ctrl + s
+4. git commit -m "내용"
+5. git push 이름 master
+
