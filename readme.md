@@ -9,4 +9,4 @@
 소속 : 경기게임마이스터고등학교  
 등급 : 최하, 바닥 밑에 바닥  
 성우 : 김진후
-sadkfjbaskldfhasldjfbl;svblbr;bwevbrekwqev;klnkl
+sadkfjbaskldfh
