@@ -13,3 +13,17 @@
 6. git config --global user.gmail "e-mail"
 7. git remote add 이름 Repositories주소
 8. git push 이름 master
+
+디자인
+제목.  >
+부제목.  >>
+헤더.  ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=내용&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+밑줄.  -----------------------,    ~~
+c언어 사용.   ```c   ~     ```
+강조.  ## 내용
+더 강조.  **내용**
+나무위키 명언제조기.  * 내용
+사진.  ![사진제목](사진링크)
+깃허브 상태창.  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=닉네임&show_icons=true&theme=radical)
+줄 바꾸기.  </br> 내용    또는    내용  (스페이스 두 번)
+자주 사용하는 유저 용어.  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkjung2016&langs_count=8)](https://github.com/Parkjung2016/github-readme-stats)
